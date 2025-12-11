@@ -1,2 +1,2 @@
 # concurrent-hashmap
-CSC 385 Performance Optimization
+CSC 375 Performance Optimization
