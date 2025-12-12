@@ -4,7 +4,7 @@ package concurrent_hashmap;
  */
 
 /**
- * Small functional tester (outside of JMH) to check up on LockedHashMap vs ConcurrentHashMap.
+ * Small quick tester (outside of JMH) to check up on LockedHashMap vs ConcurrentHashMap.
  * Using this for quick correctness/throughput sanity checks.
  *
  * Usage:
