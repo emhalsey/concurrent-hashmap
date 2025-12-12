@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 @BenchmarkMode(Mode.Throughput)
 @OutputTimeUnit(TimeUnit.SECONDS)
 @State(Scope.Benchmark)
-public class MapBenchmarks {
+public class JMHBenchmarks {
 
     @Param({"1000", "10000"})
     public int mapSize;
