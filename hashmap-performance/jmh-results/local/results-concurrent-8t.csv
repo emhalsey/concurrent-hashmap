@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: mapSize","Param: readProbability"
+"concurrent_hashmap.JMHBenchmarks.concurrentMapOp","thrpt",8,10,87605952.959678,3195347.461125,"ops/s",10000,0.9
